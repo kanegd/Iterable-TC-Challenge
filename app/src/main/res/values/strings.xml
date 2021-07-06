@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Garrett Kane Iterable TC Challenge</string>
+    <string name="button_UpdateProfile">Update User Profile</string>
+    <string name="text_output">Output:</string>
+    <string name="button_SecretCode">Send Secret Code</string>
+    <string name="button_ShowMessage">Show In-App Message</string>
+</resources>
